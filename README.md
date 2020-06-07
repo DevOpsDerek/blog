@@ -1,8 +1,7 @@
-# Hugo-Octopress Demo
-Website demonstrating the [Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) Hugo theme and some shortcodes.
+# DevOps Derek Blog
 
-You can view the demo at:
+Welcome to DevOps Derek Blog
 
-- http://hugo-octopress-test.s3-website-us-east-1.amazonaws.com/
+This Hugo website was originally developed and created by [parsiya](https://github.com/parsiya/) and you can see the original Hugo theme and source and some Hugo shortcodes on [Github](https://github.com/parsiya/Hugo-Octopress).
 
-For a modified version (different index) of the theme, see my personal website at [parsiya.net](https://parsiya.net).
+You can view this website on [DevOpsDerek.net](https://DevOpsDerek.net)

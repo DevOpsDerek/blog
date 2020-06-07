@@ -1,7 +1,7 @@
-baseurl = "http://hugo-octopress-test.s3-website-us-east-1.amazonaws.com/"
+baseurl = "http://devopsderek.github.io/"
 disablePathToLower = false
 languageCode = "en-us"
-title = "Hugo-Octopress Demo"
+title = "DevOpsDerek Blog"
 theme = "Hugo-Octopress"
 
 # number of blog posts displayed in each page
@@ -38,7 +38,7 @@ pygmentsStyle = "solarized-dark"
   weight = 3
 
 [[menu.main]]
-  Name = "This theme on Github"
+  Name = "This Hugo theme on Github"
   URL = "https://github.com/parsiya/hugo-octopress"
   weight = 10
 
@@ -62,8 +62,8 @@ pygmentsStyle = "solarized-dark"
   weight = 5
 
 [[menu.sidebar]]
-  Name = "External link to example.com"
-  URL = "https://example.com"
+  Name = "Octopus Deploy"
+  URL = "https://Octopus.com"
   weight = 10
 
 [params]
@@ -71,12 +71,17 @@ pygmentsStyle = "solarized-dark"
   navigationNewWindow = true
   sidebarRecentLimit = 5
 
-  sidebarHeader = "Sidebar Header"
+  sidebarHeader = "About Me"
 
-  sidebarText = """Sidebar text. You can use markdown here. Including links like [example.com](https://example.com).
-  </br></br>
-  Add new lines with `</br>` or add two spaces to the end of the line like regular markdown.  
-  New line after two spaces.
+  sidebarText = """Hello! I am [DevOpsDerek](https://twiter.com/DevOpsDerek) and this is my personal blog!
+
+This blog will probably be a lot like other blogs and I will focus mostly on technology blogs with a sprinkle of the below:
+
+DevOps Technologies, Professional Development ideas, Some personal stuff, How I deal with Imposter Symdrome (and yes, I still get it occasionally)
+
+I work as a CI/CD Architect at [Octopus Deploy](https://octopus.com) as part of the Customer Success team and and I am based just outside of Glasgow, Scotland.
+
+I work with some of Octopus's largest customers and also help write content that help the users of Octopus. This blog holds my own opinions, ideas and content and it won't be part of my work at Octopus.
   """
 
   sidebarMenuEnabled = true
@@ -90,10 +95,10 @@ pygmentsStyle = "solarized-dark"
   truncate = true
 
   # author's name (this will appear in metadata and under posts)
-  author = "Author Name"
+  author = "DevOpsDerek"
 
   # appears in the site header under website title
-  subtitle = "Hugo-Octopress demo site - subtitle."
+  subtitle = ""
 
   # used in the search engine
   searchEngineURL = "https://www.google.com/search"
@@ -104,11 +109,9 @@ pygmentsStyle = "solarized-dark"
   # Google analytics code
   # googleAnalytics = ""
 
-  bitbucket = "https://bitbucket.org/parsiya/"
-  twitter = "https://twitter.com/cryptogangsta/"
-  keybase = "https://keybase.io/parsiya/"
-  github = "https://github.com/parsiya/Hugo-Octopress/"
-  linkedin = "https://www.linkedin.com/in/parsiya"
+  twitter = "https://twitter.com/DevOpsDerek/"
+  github = "https://github.com/DevOpsDerek/"
+  linkedin = "https://www.linkedin.com/in/DevOpsDerek"
 
   rss = true  # switch to true to enable RSS icon link
 
