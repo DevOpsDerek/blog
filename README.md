@@ -8,4 +8,6 @@ You can view this website on [DevOpsDerek.net](https://DevOpsDerek.net)
 
 To Deploy to Github Pages run
 
-sh Deploy.sh and deploy new changes
+```bash
+sh Deploy.sh
+```
