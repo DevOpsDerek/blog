@@ -1,0 +1,1 @@
+hugo --destination /Users/derekcampbell/Documents/GitHub/devopsderek.github.io
